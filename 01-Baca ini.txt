@@ -1,2 +1,0 @@
-Pada seri tutorial ini teman-teman diajak untuk memahami lebih dalam tentang apa itu database,
-management database, membuat tabel dan relasi serta manipulasi data menggunakan CLI.
